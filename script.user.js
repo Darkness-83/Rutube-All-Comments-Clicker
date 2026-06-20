@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net
 // @version      1.6
 // @description  Автоматически нажимает кнопку "Показать ещё" под комментариями на Rutube при первом открытии видео и по мере прокрутки страницы.
-// @author       Digital Dark (с помощью AI) 
+// @author       Darkness-83 (с помощью AI) 
 // @match        *://*.rutube.ru/*
 // @include      *://rutube.ru/*
 // @run-at       document-end
