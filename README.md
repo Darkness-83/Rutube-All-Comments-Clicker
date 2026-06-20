@@ -15,8 +15,7 @@
 
 ## Как установить
 1. Установите расширение [Tampermonkey](https://tampermonkey.net) для вашего браузера (Chrome, Яндекс.Браузер, Opera, Firefox).
-2. [Нажмите здесь, чтобы установить этот скрипт](https://raw.githubusercontent.com/Darkness-83/youtube-live-chat-reply/main/script.user.js).
-3. Откройте любую трансляцию на YouTube, обновите страницу и пользуйтесь с удовольствием!
+2. [Нажмите здесь, чтобы установить этот скрипт](https://raw.githubusercontent.com/Darkness-83/Rutube-All-Comments-Clicker/main/script.user.js).
 
 ## Лицензия
-Разработано совместно с AI. Лицензия свободная некоммерческая (GPL-3.0 License). Пользуйтесь на здоровье и приятного общения на трансляциях!
+Разработано совместно с AI. Лицензия свободная некоммерческая (GPL-3.0 License). Пользуйтесь на здоровье и приятного общения в комментариях!
